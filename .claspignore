@@ -1,7 +1,0 @@
-.git/**
-.gitignore
-README.md
-.claspignore
-.clasp.json
-.clasprc.json
-*.zip
